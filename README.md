@@ -10,3 +10,5 @@ Create an account in TMDB.
 Get the API key.
 
 Add it in the .env file.
+
+Site link -> https://netflixclone-frontend.netlify.app/
